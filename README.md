@@ -52,7 +52,7 @@
   <a href= "https://www.instagram.com/extortg/">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
   </a>
-  <a herf= "https://es.pinterest.com/sadex_mc/">
+  <a href= "https://es.pinterest.com/sadex_mc/">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white">
   </a>
   <a href= "https://www.tiktok.com/@extortamo">
